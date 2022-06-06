@@ -1,0 +1,6 @@
+x = input("Whos birthday is it?: ")
+song = ("Happy Birthday to you!")
+print(song)
+print(song)
+print("Happy Birthday dear " + x +"!")
+print(song)
